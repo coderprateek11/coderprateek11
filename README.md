@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... react js
 - 💞️ I’m looking to collaborate on ...full stack development
 - 📫 How to reach me ...you can reach me on prateekbaderia.code@gmail.com
+- checking commit
 
 <!---
 coderprateek11/coderprateek11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
